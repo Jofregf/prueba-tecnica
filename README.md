@@ -1,4 +1,4 @@
-# prueba-tecnica
+# Prueba Técnica
 
 ## Descripción
 El proyecto se realizó con el fin de cumplir con una prueba técnica. El mismo permite crear un producto en una base de 
